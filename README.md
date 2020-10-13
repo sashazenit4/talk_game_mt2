@@ -1,2 +1,3 @@
 # talk_game_mt2
-Игра на андроид для шумных компаний
+Game for android in style "Truth or dare"
+By the process of creation this game I will edit README file.
